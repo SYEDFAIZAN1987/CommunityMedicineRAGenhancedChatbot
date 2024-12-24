@@ -308,7 +308,7 @@ This ensures that the query is fully processed and returns accurate results.
     # Sidebar with information
     # Sidebar with information
     with st.sidebar:
-        st.image("images/uwgt.png", caption="Sponsor Logo", width=150)
+        st.image("images/univ.jpg", caption="Sponsor Logo", width=150)
 
         if st.button("Clear Chat History", key="clear_chat_sidebar"):
             st.session_state.chat_history = []
