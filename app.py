@@ -121,9 +121,9 @@ if page == "Home":
     st.markdown("""
         <div class="header-container">
             <div class="divider"></div>
-            <h1 class="header-text">ALY 6080 Group 1 Capstone Project</h1>
+            <h1 class="header-text">Community Medicine Department MMC & RI Chatbot</h1>
             <p class="header-text" style="font-size: 1.5em; font-weight: bold; color: red;">
-                Built by Syed Faizan, Team Lead of Group 1, ALY 6080, Northeastern University
+                Built by Dr. Syed Faizan,M.B.B.S, Graduate student at Northeastern University under the supervision of Dr. Mudassir Azzez Khan, MD
             </p>
         </div>
     """, unsafe_allow_html=True)
