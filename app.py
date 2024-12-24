@@ -143,7 +143,7 @@ if page == "Home":
     # Display Team Images
     col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
-        st.image("images/faizan.jpeg", use_container_width=True, caption="Dr. Syed Faizan")
+        st.image("images/faizan.jpg", use_container_width=True, caption="Dr. Syed Faizan")
     with col3:
         st.image("images/DrMudassirAzeezKhan.jpg", use_container_width=True, caption="Dr. Mudassir Azeez Khan")
     
