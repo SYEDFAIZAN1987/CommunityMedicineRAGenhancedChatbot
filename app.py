@@ -135,7 +135,7 @@ if page == "Home":
         st.write("")  # Empty column for spacing
 
     with col2:
-        st.image("images/univ.png", caption="University Logo", use_container_width=True)
+        st.image("images/univ.jpg", caption="University Logo", use_container_width=True)
 
     with col3:
         st.write("")  # Empty column for spacing
