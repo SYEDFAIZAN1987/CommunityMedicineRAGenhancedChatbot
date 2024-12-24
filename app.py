@@ -494,7 +494,7 @@ elif page == "Project Details":
 
 # Sidebar Details
 with st.sidebar:
-    st.image("images/uwgt.png", caption="Sponsor Logo", width=150)
+    st.image("images/univ.jpg", caption="University Logo", width=150)
     st.markdown("""
     ### About the Project
     **Project Highlights:**
