@@ -336,9 +336,9 @@ This ensures that the query is fully processed and returns accurate results.
     st.markdown("---")
     st.markdown("""
     <div style="padding: 10px; font-size: 14px; color: #444;">
-        <p><strong>Team Members:</strong> Syed Faizan (Team Lead), Emelia Doku, Vraj Shah, Shicheng Wan, Pravalika Sorda, and Christiana Adjei.</p>
-        <p><strong>Data Sources:</strong> Public datasets, machine learning models, and EDA outputs from the ALY 6080 Capstone Project.</p>
-        <p>For additional resources or inquiries, please contact the Team Lead, Syed Faizan, via the contact section.</p>
+        <p><strong>Researchers:</strong> Dr. Syed Faizan under the supervision of Dr.Mudassir Azeez Khan.</p>
+        <p><strong>Data Sources:</strong> Course Materials from the Community Medicine Department Course.</p>
+        <p>For additional resources or inquiries, please contact Dr.Syed Faizan, via the contact section.</p>
     </div>
     """, unsafe_allow_html=True)
 
